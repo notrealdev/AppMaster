@@ -1,0 +1,5 @@
+# Release packages are attached to GitHub Releases, not committed
+*.zip
+*.exe
+*.exe.config
+/Data/

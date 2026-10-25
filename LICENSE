@@ -1,0 +1,11 @@
+AppMaster - freeware license
+
+Copyright (c) 2026 ttnoct. All rights reserved.
+
+You may download, install and use AppMaster, unmodified, for free, for personal and commercial purposes, and you may share the unmodified release package as long as it stays complete (including this license and THIRD-PARTY-NOTICES.md).
+
+You may not sell AppMaster, modify it, decompile or disassemble it, or remove or alter its notices, except where the law gives you that right regardless of this license.
+
+THIRD-PARTY COMPONENTS: the package includes 7z.dll from 7-Zip, which is covered by its own license (see THIRD-PARTY-NOTICES.md and 7z-License.txt), not by this one.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
